@@ -1,3 +1,3 @@
-def array(elements)
-array.push("name")
+def using_push(array,string)
+array.push(string)
 end
