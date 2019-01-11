@@ -1,3 +1,3 @@
 def array(elements)
-array.push
+array.push("name")
 end
